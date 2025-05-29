@@ -36,3 +36,17 @@ This repository contains projects that I have coded in python.
 - You can pick the number of questions.
 - You can pick the difficulty.
 - Keeps track of how many you got correct out of the total amount of questions quizzed.
+
+### Project 6: Create  Task
+**Summary**: This program suggests an item from a menu based on the user's dietary restriction/preference
+**Key Features**:
+- You can decide between vegan, vegetarian, gluten-free, etc.
+- This was a collaboration between myself, Phoenix Ling, and Olivia Kulinski.
+- Displays the ingredients of the recommended food.
+
+### Project 7: Dogs
+**Summary**: This program suggests a dog breed based on the user's prefernce based on size and temperament.
+**Key Features**:
+- Dog sizes: Small, Medium, Large.
+- Also displays the dog from an image displayer.
+- Over 100 dog breeds.
